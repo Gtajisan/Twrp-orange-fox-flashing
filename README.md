@@ -25,9 +25,9 @@ mi-fastboot flash recovery recovery.img
 ```
 3. if you open twrp
 ```
-fastboot boot recovery.img
+mi-fastboot boot recovery.img
 ```
 4. Type fastboot reboot and press Enter to reboot your device after the flash is complete.
 ```
-fastboot reboot
+mi-fastboot reboot
 ```
